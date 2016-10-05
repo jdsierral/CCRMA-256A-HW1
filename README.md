@@ -37,6 +37,12 @@ the editors public methods and fields and is actually the holder for the editor 
 
 Take into account that this requires a circular inclussion of the processor's header on the  editor's header and also of the editor's header in the processor's header. To avoid this a dummy class is created on the processor's header for it to be able to create the pointer that will store, during initialization, the address of the editor. This is the main reason for splitting the project into .cpp and .h files in the editor aswell as in the processor part of the program
 
+## Example of Use
+
+see this youTube video to check how the synthesizer works and sounds ;)
+
+www.youtube.com/juandsierral/CCRMA-256A-HW1
+
 ## History
 
 Single Commit repo
