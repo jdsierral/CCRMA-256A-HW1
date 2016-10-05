@@ -41,7 +41,8 @@ Take into account that this requires a circular inclussion of the processor's he
 
 see this youTube video to check how the synthesizer works and sounds ;)
 
-www.youtube.com/juandsierral/CCRMA-256A-HW1
+https://youtu.be/bd0QLtfIBxQ
+
 
 ## History
 
